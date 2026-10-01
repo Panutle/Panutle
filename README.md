@@ -13,7 +13,7 @@ I build practical computer vision, geospatial analytics, data engineering, and a
 | [DeepScanMap U-Net Segmentation](https://github.com/Panutle/scanmap-unet-segmentation) | Deep learning | Patch-based semantic segmentation and reconstruction for ultra-high-resolution scanned maps. |
 | [NYC Mobility Geospatial Pipeline](https://github.com/Panutle/nyc-mobility-geospatial-pipeline) | Big data analytics | PySpark and Databricks ETL with reverse geocoding and Power BI mobility-flow analysis. |
 | [Python ETL Pipelines](https://github.com/Panutle/python-etl-pipelines) | Data engineering | PostgreSQL-to-MongoDB migration patterns and SQL Server transformations with upserts. |
-| [Object Vision](https://github.com/Panutle/similarity_space) | Interactive analytics | A React and TypeScript platform for real-time vector reduction and 3D similarity exploration. |
+| [Object Vision](https://github.com/Panutle/similarity-space) | Interactive analytics | A React and TypeScript platform for real-time vector reduction and 3D similarity exploration. |
 
 ## Areas of Focus
 
